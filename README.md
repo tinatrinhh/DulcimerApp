@@ -25,7 +25,7 @@ This project employs a queue data structure to model the behavior of a dulcimer 
    * Click on Import -> Projects from Git (with smart import), then click **Next**
    * Choose Clone URI, then click **Next**
    * Copy the URI from Git then paste it in Eclipse
-     *  git clone: 
+     *  git clone: git@github.com:tinatrinhh/DulcimerApp.git
 3. Right click on the DulcimerDriver -> Run as -> Java Application
 
 
